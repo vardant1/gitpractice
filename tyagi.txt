@@ -1,0 +1,4 @@
+git comand 
+git bash
+git push
+git branch 
